@@ -1,0 +1,23 @@
+.Herosection{
+    width: 100%;
+    height: 70vh;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.slidecont{
+    width: 75%;
+}
+.slides{
+    width: 100%;
+    height: 100vh;
+}
+.Herocontainer{
+    width: 550px;
+    height: 300px;
+    background: #f6f6f689;
+    position: absolute;
+    top: 80%;
+    z-index: 10000;
+}
